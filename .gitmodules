@@ -1,0 +1,9 @@
+[submodule "JSON"]
+	path = JSON
+	url = https://github.com/Antoine-Dch/JSON.git
+[submodule "TXT"]
+	path = TXT
+	url = https://github.com/Antoine-Dch/TXT.git
+[submodule "XML"]
+	path = XML
+	url = https://github.com/Antoine-Dch/XML.git
